@@ -6,10 +6,10 @@
 ### <div align="center">I'm Mustafa Ihsan, a junior frontend developer. 👨‍💻 </div>  
   
 
-- 🌱 I’m currently learning React and Redux.  
+  - 🌱 I’m currently learning TypeScript.  
   
 
-- ❓ Ask me about anything related to HTML, CSS(SASS, Bootstrap), JavaScript, React(Redux) and related technologies.  
+- ❓ Ask me about anything related to HTML, CSS(SASS, Bootstrap), JavaScript, React and related technologies.  
   
 
 - ⚡ Fun fact: I use tabs over spaces.  
