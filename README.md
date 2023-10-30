@@ -2,7 +2,6 @@
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-
   <img src="https://camo.githubusercontent.com/5bbf8ca61ef5f92684489ace45ad6f45984fff87a621040c62b1fe31e3005ff9/687474703a2f2f692e696d6775722e636f6d2f436a34724d72532e676966" width="30">
   Welcome to Mustafa Ihsan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -42,12 +41,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ---
-![](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
-![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
-![](https://forthebadge.com/images/badges/uses-brains.svg)
----
 ![Profile_Views](https://komarev.com/ghpvc/?username=mustafaihsank&style=for-the-badge&label=Visitors+Count&color=brightgreen)
-
 
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
